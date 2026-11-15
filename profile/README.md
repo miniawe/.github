@@ -66,4 +66,6 @@ npm run dev
 - 🏠 官网：[miniawe.com](https://miniawe.com)
 - 🐙 GitHub 组织：[github.com/miniawe](https://github.com/miniawe)
 
+ℹ️ 此页面 AI 生成 + 手动修改，部分内容夸大其词
+
 © 2026 ·  MINIAWE · 小程序  ⚡ 由 GitHub Pages 驱动
