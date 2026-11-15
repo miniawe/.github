@@ -9,7 +9,7 @@ on:
   workflow_dispatch:
   push:
     paths:
-      - 'profile/README.md'
+      - 'profile/MINIAWE.md'
     branches:
       - main
 
